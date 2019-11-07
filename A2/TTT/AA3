@@ -1,0 +1,4 @@
+[Taste(Jar1)]
+if Contains(Jar1,Sugar)
+   then [Add(Jar1,Sugar)]
+   else [NoOp]
